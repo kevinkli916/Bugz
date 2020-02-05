@@ -4,8 +4,8 @@ Bugz is a native mobile application demonstrating object-oriented programming pr
 ##  Installing
 To import project using Eclipse IDE:
 
-  1. Under "File" select "Import..."
-  <img src="https://user-images.githubusercontent.com/50645656/73822228-7cadd180-47aa-11ea-9a52-dc7477be1701.png" height="400">
+  1. Under "File" select "Import..."  
+      <img src="https://user-images.githubusercontent.com/50645656/73822228-7cadd180-47aa-11ea-9a52-dc7477be1701.png" height="400">
   
   2. Under "General" select "Existing Projects into Workspace"
   <img src="https://user-images.githubusercontent.com/50645656/73822447-fa71dd00-47aa-11ea-9319-8f39dad8adb9.png" height="400">
